@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Melike ARIKAN</h1>
 <h3 align="center">I am a 3rd year computer engineering student at Çukurova University. I am interested in android mobile application development.</h3>
 <img align="right" alt="Coding" width="400" src =https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif>
